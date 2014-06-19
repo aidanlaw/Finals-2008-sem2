@@ -16,7 +16,7 @@ int main(void)
         int width;                      //creates an integer value called width
         int height;                     //creates an integer value called height
         unsigned char image[480[640]];  //creates an array 480 rows and 640 columns within the struct called image
-    };                                  //ends the section 
+    };                                  //ends the section
     
     
     
